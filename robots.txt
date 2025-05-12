@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yquicklo.xompro.com/yquicklo.txt
